@@ -1,2 +1,1 @@
 # clothing-shop
-clothing shop
